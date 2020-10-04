@@ -1,0 +1,42 @@
+.heading-hr {
+  border-color: #1c1f8b;
+  width: 500px;
+}
+
+.heading-btn {
+  margin-top: 30px;
+}
+
+.section-heading {
+  color: white;
+}
+
+.s2-alat {
+  max-width: 30%;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 5px;
+}
+
+.s2-text {
+  display: inline;
+}
+
+.border-color-primary {
+  border-color: #1c1f8b;
+}
+
+.s6-icon {
+  max-width: 15%;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 5px;
+}
+
+.fl-left {
+  float: left;
+}
+
+.fl-right {
+  float: right;
+}
